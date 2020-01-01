@@ -15,6 +15,6 @@
 
 - ### [**5. AWS IAM and EC2**]()
 
-- ### [**6. AWS EBS,RDS,VPC**]()
+- ### [**6. AWS EBS,RDS,VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
 
