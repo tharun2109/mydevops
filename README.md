@@ -6,4 +6,4 @@
 
 - ### 3. Linux Running Notes
 
-    - ####  
+    - #### Part 1 
