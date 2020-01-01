@@ -17,6 +17,6 @@
 
 - ### [**6. AWS EBS,RDS,VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
-- ### [**7. DevOps - Part 1**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**7. DevOps - Part 1**](8.DevOps-Part-1.pdf)
 
 
