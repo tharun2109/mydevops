@@ -1,4 +1,4 @@
 # Rise 'N' Shine Class Material
 
-### 1. Introduction and Demo Slides
-docs
+- ### 1. Introduction and Demo Slides
+
