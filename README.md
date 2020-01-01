@@ -1,2 +1,3 @@
-# Rise 'N' Shine Class
+# Rise 'N' Shine Class Material
+
 docs
