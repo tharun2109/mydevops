@@ -12,3 +12,5 @@
     - #### [**Part 4**](3.Linux_Material_Part_4.pdf)
 
 - ### [**4. AWS Introduction**](5.AWS-Introduction.pdf)
+
+- ### [**5. AWS Introduction**](5.AWS-Introduction.pdf)
