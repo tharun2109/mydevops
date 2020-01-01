@@ -1,2 +1,2 @@
-# doClasscs
+# Rise 'N' Shine Class
 docs
