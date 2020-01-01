@@ -4,4 +4,4 @@
 
 - ### 2. CI and CD Pipeline Slides
 
-- ### 2.
+- ### 3. Linux Running Notes
