@@ -1,4 +1,4 @@
 # Rise 'N' Shine Class Material
 
-- 1
+- 1. 
 docs
