@@ -2,4 +2,6 @@
 
 - ### 1. Introduction and Demo Slides
 
-- ### 2. CI and CD Pipeline 
+- ### 2. CI and CD Pipeline Slides
+
+- ### 2.
