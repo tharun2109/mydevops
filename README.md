@@ -4,7 +4,7 @@
 
 - ### [**2. CI and CD Pipeline Slides**](2.CI-and-CD-Pipeline.pdf)
 
-- ### 3. Linux Running Notes
+- ### [3. Linux Running Notes
 
     - #### Part 1 
     - #### Part 2
