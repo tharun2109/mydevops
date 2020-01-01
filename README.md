@@ -10,3 +10,4 @@
     - #### [**Part 2**](3.Linux_Material_Part_2.pdf)
     - #### [**Part 3**](3.Linux_Material_Part_3.pdf)
 
+- ### [**4. CI and CD Pipeline Slides**](2.CI-and-CD-Pipeline.pdf)
