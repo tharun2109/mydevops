@@ -26,4 +26,4 @@
 
 - ### [**9. DevOps - Docker**](10.DevOps-Docker.pdf)
 
-- ### [**10. DevOps - Part 2 Ansible**](9.DevOps-Part-2.pdf)
+- ### [**10. DevOps - Docker Compose**](9.DevOps-Part-2.pdf)
