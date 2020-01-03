@@ -22,8 +22,8 @@
 
 - ### [**7. DevOps - Part 1**](8.DevOps-Part-1.pdf)
 
-- ### [**8. DevOps - Part 2 Ansible**](9.DevOps-Part-2.pdf)
+- ### [**8. DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
-- ### [**9. DevOps - Docker Ansible**](9.DevOps-Part-2.pdf)
+- ### [**9. DevOps - Docker**](9.DevOps-Part-2.pdf)
 
 - ### [**8. DevOps - Part 2 Ansible**](9.DevOps-Part-2.pdf)
