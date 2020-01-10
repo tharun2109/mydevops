@@ -32,7 +32,7 @@
 
 - ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](8.DevOps-Part-1.pdf)
 
-- ### [**11. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
+- ### [**17. RNS DevOps - AWS CLI**](9.DevOps-Part-2.pdf)
 
 - ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
 
