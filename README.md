@@ -10,7 +10,7 @@
 
   - #### [**Linux - Part 2**](3.Linux_Material_Part_2.pdf)
 
-  - #### [**Linux Part 3**](3.Linux_Material_Part_3.pdf)
+  - #### [**Linux - Part 3**](3.Linux_Material_Part_3.pdf)
     
   - #### [**Part 4**](3.Linux_Material_Part_4.pdf)
 
