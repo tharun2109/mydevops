@@ -30,7 +30,7 @@
 
 - ### [**15. RNS DevOps - AWS VPC**](15.RNS-DevOps-AWS-VPC.pdf)
 
-- ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](8.DevOps-Part-1.pdf)
+- ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](16.RNS-DevOps-AWS-CloudWatch&Trail.pdf)
 
 - ### [**17. RNS DevOps - AWS CLI**](9.DevOps-Part-2.pdf)
 
