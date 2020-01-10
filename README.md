@@ -28,4 +28,4 @@
 
 - ### [**10. DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
-- ### [**11. DevOps - Kubernetes**](11.DevOps-Docker-Compose.pdf)
+- ### [**11. DevOps - Kubernetes**](12.Kubernetes.pdf)
