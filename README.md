@@ -26,7 +26,7 @@
 
 - ### [**13. RNS DevOps - AWS RDS**](11.DevOps-Docker-Compose.pdf)
 
-- ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+- ### [**14. RNS DevOps - AWS S3**](12.Kubernetes.pdf)
 
 - ### [**9. RNS DevOps - AWS  EBS, RDS, VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
