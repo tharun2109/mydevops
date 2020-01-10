@@ -34,7 +34,7 @@
 
 - ### [**17. RNS DevOps - AWS CLI**](9.DevOps-Part-2.pdf)
 
-- ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+- ### [**18. RNS DevOps - AWS Terraform**](10.DevOps-Docker.pdf)
 
 - ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
