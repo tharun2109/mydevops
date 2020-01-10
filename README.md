@@ -2,11 +2,11 @@
 
 - #### [**01. RNS DevOps - Demo**](01.RNS-DevOps-Demo)
 
-- ### [**02. RNS DevOps - CI & CD Pipeline**](02.RNS-DevOps-CI-and-CD-Pipeline.pdf)
+- #### [**02. RNS DevOps - CI & CD Pipeline**](02.RNS-DevOps-CI-and-CD-Pipeline.pdf)
 
-- ### [**03. RNS DevOps - Linux Notes 1**](03.RNS-DevOps-Linux-Notes-1.pdf)
+- #### [**03. RNS DevOps - Linux Notes 1**](03.RNS-DevOps-Linux-Notes-1.pdf)
 
-- ### [**04. RNS DevOps - Linux Notes 2**](04.RNS-DevOps-Linux-Notes-2.pdf)
+- #### [**04. RNS DevOps - Linux Notes 2**](04.RNS-DevOps-Linux-Notes-2.pdf)
 
 - ### [**05. RNS DevOps - Linux Notes 3**](05.RNS-DevOps-Linux-Notes-3.pdf)
     
