@@ -26,7 +26,7 @@
 
 - ### [**13. RNS DevOps - AWS RDS**](13.RNS-DevOps-AWS-RDS.pdf)
 
-- ### [**14. RNS DevOps - AWS S3**](12.Kubernetes.pdf)
+- ### [**14. RNS DevOps - AWS S3**](14.RNS-DevOps-AWS-S3.pdf)
 
 - ### [**15. RNS DevOps - AWS VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
