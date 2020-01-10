@@ -16,7 +16,7 @@
 
 - ### [**08. RNS DevOps - AWS IAM**]()
 
-- ### [**09. RNS DevOps - AWS EC2**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**09. RNS DevOps - AWS EC2**]()
 
 - ### [**10. RNS DevOps - AWS EBS**](8.DevOps-Part-1.pdf)
 
