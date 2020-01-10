@@ -38,9 +38,9 @@
 
 - ### [**19. RNS DevOps - Java & Maven**](19.RNS-DevOps-Java&Maven.pdf)
 
-- ### [**20. RNS DevOps - Tomcat**](12.Kubernetes.pdf)
+- ### [**20. RNS DevOps - Tomcat**](20.RNS-DevOps-Tomcat.pdf)
 
-- ### [**21. RNS DevOps - Git and GitHub**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**21. RNS DevOps - Git and GitHub**](21.RNS-DevOps-Git&GitHub.pdf)
 
 - ### [**22. RNS DevOps - Vagrant**](8.DevOps-Part-1.pdf)
 
