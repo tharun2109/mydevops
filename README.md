@@ -1,6 +1,6 @@
 # **Rise 'N' Shine** Class Material
 
-- ### [**01. RNS DevOps - Demo**](01. RNS DevOps - Demo.pdf)
+- ### [**01. RNS DevOps - Demo**](01.RNS-DevOps-Demo)
 
 - ### [**02. RNS DevOps - CI & CD Pipeline**](2.CI-and-CD-Pipeline.pdf)
 
