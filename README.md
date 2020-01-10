@@ -44,9 +44,9 @@
 
 - ### [**22. RNS DevOps - Vagrant**](8.DevOps-Part-1.pdf)
 
-- ### [**11. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
+- ### [**23. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
-- ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+- ### [**24. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
 
 - ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
