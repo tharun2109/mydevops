@@ -36,7 +36,7 @@
 
 - ### [**18. RNS DevOps - AWS Terraform**](10.DevOps-Docker.pdf)
 
-- ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+- ### [**19. RNS DevOps - Java & Maven**](11.DevOps-Docker-Compose.pdf)
 
 - ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
 
