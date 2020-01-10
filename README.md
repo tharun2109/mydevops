@@ -28,7 +28,7 @@
 
 - ### [**14. RNS DevOps - AWS S3**](14.RNS-DevOps-AWS-S3.pdf)
 
-- ### [**15. RNS DevOps - AWS VPC**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**15. RNS DevOps - AWS VPC**](15.RNS-DevOps-AWS-VPC.pdf)
 
 - ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](8.DevOps-Part-1.pdf)
 
