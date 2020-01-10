@@ -22,8 +22,8 @@
 
 - ### [**11. DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
-- ### [**9. DevOps - Docker**](10.DevOps-Docker.pdf)
+- ### [**12. DevOps - Docker**](10.DevOps-Docker.pdf)
 
-- ### [**10. DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+- ### [**13. DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
-- ### [**11. DevOps - Kubernetes**](12.Kubernetes.pdf)
+- ### [**14. DevOps - Kubernetes**](12.Kubernetes.pdf)
