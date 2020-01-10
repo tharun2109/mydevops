@@ -18,7 +18,7 @@
 
 - ### [**09. RNS DevOps - AWS EC2**]()
 
-- ### [**10. RNS DevOps - AWS EBS**](8.DevOps-Part-1.pdf)
+- ### [**10. RNS DevOps - AWS EBS**](10.RNS-DevOps-AWS-EBS.pdf)
 
 - ### [**11. RNS DevOps - AWS LB and ASG**](9.DevOps-Part-2.pdf)
 
