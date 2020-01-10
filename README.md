@@ -32,7 +32,7 @@
 
 - ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](16.RNS-DevOps-AWS-CloudWatch&Trail.pdf)
 
-- ### [**17. RNS DevOps - AWS CLI**](9.DevOps-Part-2.pdf)
+- ### [**17. RNS DevOps - AWS CLI**](17.RNS-DevOps-AWS-CLI.pdf)
 
 - ### [**18. RNS DevOps - AWS Terraform**](10.DevOps-Docker.pdf)
 
