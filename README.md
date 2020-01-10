@@ -6,9 +6,9 @@
 
 - ### [**03. RNS DevOps - Linux Notes 1**](3.Linux_Material_Part_1.pdf)
 
-- ### [**03. RNS DevOps - Linux Notes 1**](3.Linux_Material_Part_2.pdf)
+- ### [**04. RNS DevOps - Linux Notes 2**](3.Linux_Material_Part_2.pdf)
 
-- ### [**5. RNS DevOps - Linux Notes 3**](3.Linux_Material_Part_3.pdf)
+- ### [**03. RNS DevOps - Linux Notes 3**](3.Linux_Material_Part_3.pdf)
     
 - ### [**6. RNS DevOps - Linux Notes 4**](3.Linux_Material_Part_4.pdf)
 
