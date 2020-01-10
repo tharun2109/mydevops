@@ -50,4 +50,4 @@
 
 - ### [**25. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
-- ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+- ### [**26. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
