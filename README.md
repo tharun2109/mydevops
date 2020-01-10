@@ -12,7 +12,7 @@
     
 - ### [**06. RNS DevOps - Linux Notes 4**](06.RNS-DevOps-Linux-Notes-4.pdf)
 
-- ### [**07. RNS DevOps - AWS Introduction**](4.AWS-Introduction.pdf)
+- ### [**07. RNS DevOps - AWS Introduction**](07.RNS-DevOps-AWS-Introduction.pdf)
 
 - ### [**08. RNS DevOps - AWS IAM**]()
 
