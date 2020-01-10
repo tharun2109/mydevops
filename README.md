@@ -16,11 +16,11 @@
 
 - ### [**8. AWS - Iam and EC2**]()
 
-- ### [**6. AWS - Ebs, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**9. AWS - Ebs, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
 
-- ### [**7. DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
+- ### [**10. DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
 
-- ### [**8. DevOps - Ansible**](9.DevOps-Part-2.pdf)
+- ### [**11. DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
 - ### [**9. DevOps - Docker**](10.DevOps-Docker.pdf)
 
