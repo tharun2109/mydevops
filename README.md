@@ -2,7 +2,7 @@
 
 - ### [**1. RNS DevOps - Demo Slides**](1.DevOps-Demo.pdf)
 
-- ### [**2. RNS DevOps - CI and CD Pipeline**](2.CI-and-CD-Pipeline.pdf)
+- ### [**2. RNS DevOps - CI & CD Pipeline**](2.CI-and-CD-Pipeline.pdf)
 
 - ### [**3. Linux - Running Notes 1**](3.Linux_Material_Part_1.pdf)
 
