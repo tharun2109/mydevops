@@ -46,7 +46,7 @@
 
 - ### [**23. RNS DevOps - Ansible**](23.RNS-DevOps-Ansible.pdf)
 
-- ### [**24. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+- ### [**24. RNS DevOps - Docker**](24.RNS-DevOps-Docker.pdf)
 
 - ### [**25. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
