@@ -10,9 +10,9 @@
 
 - ### [**3. Linux - Running Notes 3**](3.Linux_Material_Part_3.pdf)
     
-- ### [**Linux - Running Notes 4**](3.Linux_Material_Part_4.pdf)
+- ### [**3. Linux - Running Notes 4**](3.Linux_Material_Part_4.pdf)
 
-- ### [**4. AWS Introduction**](4.AWS-Introduction.pdf)
+- ### [**4. AWS - Introduction**](4.AWS-Introduction.pdf)
 
 - ### [**5. AWS - Iam and EC2**]()
 
