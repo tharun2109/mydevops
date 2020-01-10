@@ -8,17 +8,17 @@
 
 - #### [**04. RNS DevOps - Linux Notes 2**](04.RNS-DevOps-Linux-Notes-2.pdf)
 
-- ### [**05. RNS DevOps - Linux Notes 3**](05.RNS-DevOps-Linux-Notes-3.pdf)
+- #### [**05. RNS DevOps - Linux Notes 3**](05.RNS-DevOps-Linux-Notes-3.pdf)
     
-- ### [**06. RNS DevOps - Linux Notes 4**](06.RNS-DevOps-Linux-Notes-4.pdf)
+- #### [**06. RNS DevOps - Linux Notes 4**](06.RNS-DevOps-Linux-Notes-4.pdf)
 
-- ### [**07. RNS DevOps - AWS Introduction**](07.RNS-DevOps-AWS-Introduction.pdf)
+- #### [**07. RNS DevOps - AWS Introduction**](07.RNS-DevOps-AWS-Introduction.pdf)
 
-- ### [**08. RNS DevOps - AWS IAM**]()
+- #### [**08. RNS DevOps - AWS IAM**]()
 
-- ### [**09. RNS DevOps - AWS EC2**]()
+- #### [**09. RNS DevOps - AWS EC2**]()
 
-- ### [**10. RNS DevOps - AWS EBS**](10.RNS-DevOps-AWS-EBS.pdf)
+- #### [**10. RNS DevOps - AWS EBS**](10.RNS-DevOps-AWS-EBS.pdf)
 
 - ### [**11. RNS DevOps - AWS LB and ASG**](11.RNS-DevOps-AWS-LB-and-ASG.pdf)
 
