@@ -12,9 +12,9 @@
     
 - ### [**6. Linux - Running Notes 4**](3.Linux_Material_Part_4.pdf)
 
-- ### [**4. AWS - Introduction**](4.AWS-Introduction.pdf)
+- ### [**7. AWS - Introduction**](4.AWS-Introduction.pdf)
 
-- ### [**5. AWS - Iam and EC2**]()
+- ### [**8. AWS - Iam and EC2**]()
 
 - ### [**6. AWS - Ebs, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
 
