@@ -30,7 +30,7 @@
 
 - ### [**15. RNS DevOps - AWS VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
-- ### [**10. RNS DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
+- ### [**16. RNS DevOps - AWS Cloud Watch and Trail**](8.DevOps-Part-1.pdf)
 
 - ### [**11. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
