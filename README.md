@@ -48,9 +48,9 @@
 
 - ### [**24. RNS DevOps - Docker**](24.RNS-DevOps-Docker.pdf)
 
-- ### [**25. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+- ### [**25. RNS DevOps - Docker Compose**](25.RNS-DevOps-Docker-Compose.pdf)
 
-- ### [**26. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+- ### [**26. RNS DevOps - Kubernetes**](26.RNS-DevOps-Kubernetes.pdf)
 
 - ### [**27. RNS DevOps - Jenkins**]()
 
