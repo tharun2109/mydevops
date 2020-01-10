@@ -38,7 +38,7 @@
 
 - ### [**19. RNS DevOps - Java & Maven**](11.DevOps-Docker-Compose.pdf)
 
-- ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+- ### [**20. RNS DevOps - Tomcat**](12.Kubernetes.pdf)
 
 - ### [**9. RNS DevOps - AWS  EBS, RDS, VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
