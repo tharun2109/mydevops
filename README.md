@@ -6,11 +6,11 @@
 
 - ### [**3. Linux - Running Notes 1**](3.Linux_Material_Part_1.pdf)
 
-- ### [**3. Linux - Running Notes 2**](3.Linux_Material_Part_2.pdf)
+- ### [**4. Linux - Running Notes 2**](3.Linux_Material_Part_2.pdf)
 
-- ### [**3. Linux - Running Notes 3**](3.Linux_Material_Part_3.pdf)
+- ### [**5. Linux - Running Notes 3**](3.Linux_Material_Part_3.pdf)
     
-- ### [**3. Linux - Running Notes 4**](3.Linux_Material_Part_4.pdf)
+- ### [**6. Linux - Running Notes 4**](3.Linux_Material_Part_4.pdf)
 
 - ### [**4. AWS - Introduction**](4.AWS-Introduction.pdf)
 
