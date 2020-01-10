@@ -27,3 +27,5 @@
 - ### [**9. DevOps - Docker**](10.DevOps-Docker.pdf)
 
 - ### [**10. DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+
+- ### [**10. DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
