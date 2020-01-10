@@ -40,15 +40,15 @@
 
 - #### [**20. RNS DevOps - Tomcat**](20.RNS-DevOps-Tomcat.pdf)
 
-- ### [**21. RNS DevOps - Git and GitHub**](21.RNS-DevOps-Git&GitHub.pdf)
+- #### [**21. RNS DevOps - Git and GitHub**](21.RNS-DevOps-Git&GitHub.pdf)
 
-- ### [**22. RNS DevOps - Vagrant**](22.RNS-DevOps-Vagrant.pdf)
+- #### [**22. RNS DevOps - Vagrant**](22.RNS-DevOps-Vagrant.pdf)
 
-- ### [**23. RNS DevOps - Ansible**](23.RNS-DevOps-Ansible.pdf)
+- #### [**23. RNS DevOps - Ansible**](23.RNS-DevOps-Ansible.pdf)
 
-- ### [**24. RNS DevOps - Docker**](24.RNS-DevOps-Docker.pdf)
+- #### [**24. RNS DevOps - Docker**](24.RNS-DevOps-Docker.pdf)
 
-- ### [**25. RNS DevOps - Docker Compose**](25.RNS-DevOps-Docker-Compose.pdf)
+- #### [**25. RNS DevOps - Docker Compose**](25.RNS-DevOps-Docker-Compose.pdf)
 
 - ### [**26. RNS DevOps - Kubernetes**](26.RNS-DevOps-Kubernetes.pdf)
 
