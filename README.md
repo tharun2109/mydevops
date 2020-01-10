@@ -16,7 +16,7 @@
 
 - ### [**8. RNS DevOps - AWS  IAM and EC2**]()
 
-- ### [**9. AWS - Ebs, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**9. RNS DevOps - AWS  EBS, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
 
 - ### [**10. DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
 
