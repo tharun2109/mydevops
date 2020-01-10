@@ -20,7 +20,7 @@
 
 - ### [**10. RNS DevOps - AWS EBS**](10.RNS-DevOps-AWS-EBS.pdf)
 
-- ### [**11. RNS DevOps - AWS LB and ASG**](9.DevOps-Part-2.pdf)
+- ### [**11. RNS DevOps - AWS LB and ASG**](11.RNS-DevOps-AWS-LB-and-ASG.pdf)
 
 - ### [**12. RNS DevOps - AWS Route 53**](10.DevOps-Docker.pdf)
 
