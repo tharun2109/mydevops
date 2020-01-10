@@ -40,7 +40,7 @@
 
 - ### [**20. RNS DevOps - Tomcat**](12.Kubernetes.pdf)
 
-- ### [**9. RNS DevOps - AWS  EBS, RDS, VPC**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**21. RNS DevOps - Git and GitHub**](6.AWS-EBS-VPC-RDS.pdf)
 
 - ### [**10. RNS DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
 
