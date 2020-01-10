@@ -10,7 +10,7 @@
 
 - ### [**05. RNS DevOps - Linux Notes 3**](3.Linux_Material_Part_3.pdf)
     
-- ### [**03. RNS DevOps - Linux Notes 4**](3.Linux_Material_Part_4.pdf)
+- ### [**06. RNS DevOps - Linux Notes 4**](3.Linux_Material_Part_4.pdf)
 
 - ### [**7. RNS DevOps - AWS Introduction**](4.AWS-Introduction.pdf)
 
