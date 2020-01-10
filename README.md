@@ -20,7 +20,7 @@
 
 - ### [**6. AWS EBS,RDS,VPC**](6.AWS-EBS-VPC-RDS.pdf)
 
-- ### [**7. DevOps - Part 1**](8.DevOps-Part-1.pdf)
+- ### [**7. DevOps - Maven, Tomcat, **](8.DevOps-Part-1.pdf)
 
 - ### [**8. DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
