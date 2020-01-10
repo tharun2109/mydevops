@@ -24,7 +24,7 @@
 
 - ### [**12. RNS DevOps - AWS Route 53**](12.RNS-DevOps-AWS-Route-53.pdf)
 
-- ### [**13. RNS DevOps - AWS RDS**](11.DevOps-Docker-Compose.pdf)
+- ### [**13. RNS DevOps - AWS RDS**](13.RNS-DevOps-AWS-RDS.pdf)
 
 - ### [**14. RNS DevOps - AWS S3**](12.Kubernetes.pdf)
 
