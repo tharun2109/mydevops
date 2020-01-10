@@ -18,7 +18,7 @@
 
 - ### [**5. AWS IAM and EC2**]()
 
-- ### [**6. AWS - Ebs,Rds,Vpc**](6.AWS-EBS-VPC-RDS.pdf)
+- ### [**6. AWS - Ebs, Rds, Vpc**](6.AWS-EBS-VPC-RDS.pdf)
 
 - ### [**7. DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
 
