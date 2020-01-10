@@ -22,7 +22,7 @@
 
 - ### [**11. RNS DevOps - AWS LB and ASG**](9.DevOps-Part-2.pdf)
 
-- ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+- ### [**12. RNS DevOps - AWS Route 53**](10.DevOps-Docker.pdf)
 
 - ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
