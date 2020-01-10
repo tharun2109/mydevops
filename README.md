@@ -4,9 +4,9 @@
 
 - ### [**02. RNS DevOps - CI & CD Pipeline**](2.CI-and-CD-Pipeline.pdf)
 
-- ### [**3. RNS DevOps - Linux  Notes 1**](3.Linux_Material_Part_1.pdf)
+- ### [**03. RNS DevOps - Linux Notes 1**](3.Linux_Material_Part_1.pdf)
 
-- ### [**4. RNS DevOps - Linux Notes 2**](3.Linux_Material_Part_2.pdf)
+- ### [**03. RNS DevOps - Linux Notes 1**](3.Linux_Material_Part_2.pdf)
 
 - ### [**5. RNS DevOps - Linux Notes 3**](3.Linux_Material_Part_3.pdf)
     
