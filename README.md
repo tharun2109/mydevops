@@ -42,7 +42,7 @@
 
 - ### [**21. RNS DevOps - Git and GitHub**](21.RNS-DevOps-Git&GitHub.pdf)
 
-- ### [**22. RNS DevOps - Vagrant**](8.DevOps-Part-1.pdf)
+- ### [**22. RNS DevOps - Vagrant**](22.RNS-DevOps-Vagrant.pdf)
 
 - ### [**23. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
 
