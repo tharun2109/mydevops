@@ -27,3 +27,27 @@
 - ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
 
 - ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+
+- ### [**9. RNS DevOps - AWS  EBS, RDS, VPC**](6.AWS-EBS-VPC-RDS.pdf)
+
+- ### [**10. RNS DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
+
+- ### [**11. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
+
+- ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+
+- ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+
+- ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
+
+- ### [**9. RNS DevOps - AWS  EBS, RDS, VPC**](6.AWS-EBS-VPC-RDS.pdf)
+
+- ### [**10. RNS DevOps - Maven, Tomcat, Git, Vagrant**](8.DevOps-Part-1.pdf)
+
+- ### [**11. RNS DevOps - Ansible**](9.DevOps-Part-2.pdf)
+
+- ### [**12. RNS DevOps - Docker**](10.DevOps-Docker.pdf)
+
+- ### [**13. RNS DevOps - Docker Compose**](11.DevOps-Docker-Compose.pdf)
+
+- ### [**14. RNS DevOps - Kubernetes**](12.Kubernetes.pdf)
