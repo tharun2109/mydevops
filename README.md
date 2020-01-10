@@ -6,7 +6,7 @@
 
 - ### [**3. Linux - Running Notes 1**](3.Linux_Material_Part_1.pdf)
 
-- ### [**Linux - - Running Notes 2**](3.Linux_Material_Part_2.pdf)
+- ### [**3. Linux - - Running Notes 2**](3.Linux_Material_Part_2.pdf)
 
 - ### [**Linux - Part 3**](3.Linux_Material_Part_3.pdf)
     
