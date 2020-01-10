@@ -8,7 +8,7 @@
 
 - ### [**3. Linux - Running Notes 2**](3.Linux_Material_Part_2.pdf)
 
-- ### [**Linux  3**](3.Linux_Material_Part_3.pdf)
+- ### [**3. Linux - Running Notes 3**](3.Linux_Material_Part_3.pdf)
     
 - ### [**Linux - Part 4**](3.Linux_Material_Part_4.pdf)
 
