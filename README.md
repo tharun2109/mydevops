@@ -52,6 +52,6 @@
 
 - #### [**26. RNS DevOps - Kubernetes**](26.RNS-DevOps-Kubernetes.pdf)
 
-- #### [**27. RNS DevOps - Jenkins**]()
+- #### [**27. RNS DevOps - Jenkins**](27.RNS-DevOps-Jenkins.pdf)
 
 - #### [**28. RNS DevOps - ITIL**]()
