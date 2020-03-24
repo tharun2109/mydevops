@@ -54,4 +54,4 @@
 
 - #### [**27. RNS DevOps - Jenkins**](27.RNS-DevOps-Jenkins.pdf)
 
-- #### [**28. RNS DevOps - ITIL**]()
+- #### [**28. RNS DevOps - Shell Script**]()
