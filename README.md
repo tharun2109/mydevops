@@ -12,6 +12,8 @@
     
 - #### [**06. RNS DevOps - Linux Notes 4**](06.RNS-DevOps-Linux-Notes-4.pdf)
 
+- #### [**07. RNS DevOps - What is Cloud Computing**](01_-_AWS_-_What_is_Cloud_Computing.pdf)
+
 - #### [**07. RNS DevOps - AWS Introduction**](07.RNS-DevOps-AWS-Introduction.pdf)
 
 - #### [**08. RNS DevOps - AWS IAM**]()
